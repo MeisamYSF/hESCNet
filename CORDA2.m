@@ -1,3 +1,5 @@
+% MATLAB script for CORDA2 function, provided by the authors [Schultz et al, 2017]
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % [tissue_model, rescue, HCtoMC, HCtoNC, MCtoNC] = CORDA2(model,metTests,...
 %   HC,MC,NC,MCxNCthresh,constraint,constrainby,om,ci)
